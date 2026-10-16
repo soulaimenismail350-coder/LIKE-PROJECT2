@@ -1,0 +1,9 @@
+{
+  "proegy": {
+    "username": "proegy",
+    "password": "adminproegy1",
+    "role": "admin",
+    "max_bulk_add": 50000,
+    "created_at": "2025-10-13T00:00:00"
+  }
+}
